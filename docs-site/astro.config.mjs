@@ -15,7 +15,7 @@ export default defineConfig({
         src: './src/assets/hunting.png',
         replacesTitle: false
       },
-      title: 'Falcon MCP',
+      title: 'Claroty CTD',
       favicon: '/icons/faviconV2.png',
       social: [
         { label: 'GitHub', icon: 'github', href: 'https://github.com/MissionIT/claroty-workshop' },
