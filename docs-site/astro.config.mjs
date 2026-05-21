@@ -3,8 +3,8 @@ import starlight from '@astrojs/starlight';
 import starlightThemeGalaxy from 'starlight-theme-galaxy';
 
 export default defineConfig({
-  site: 'https://crowdstrike.github.io',
-  base: '/falcon-mcp',
+  site: 'https://claroty-workshop.missionit.com',
+  base: '/',
   integrations: [
     starlight({
       plugins: [starlightThemeGalaxy()],
@@ -18,7 +18,7 @@ export default defineConfig({
       title: 'Falcon MCP',
       favicon: '/icons/faviconV2.png',
       social: [
-        { label: 'GitHub', icon: 'github', href: 'https://github.com/CrowdStrike/falcon-mcp' },
+        { label: 'GitHub', icon: 'github', href: 'https://github.com/MissionIT/claroty-workshop' },
       ],
       customCss: ['./src/styles/custom.css'],
       sidebar: [
