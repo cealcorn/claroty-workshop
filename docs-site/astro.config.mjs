@@ -61,6 +61,12 @@ export default defineConfig({
           label: 'Labs',
           items: [
             { label: 'Lab 1: Navigation and Familiarzation', slug: 'labs/lab-1' },
+            { label: 'Lab 2: Asset Discovery and Inventory Creation', slug: 'labs/lab-2' },
+            { label: 'Lab 3: Asset Assessment', slug: 'labs/lab-3' },
+            { label: 'Lab 4: Network Visibility and Topology Analysis', slug: 'labs/lab-4' },
+            { label: 'Lab 5: Zones and Segmentation', slug: 'labs/lab-5' },
+            { label: 'Lab 6: Custom Attributes', slug: 'labs/lab-6' },
+            { label: 'Lab 7: PCAP Collection', slug: 'labs/lab-7' },
           ],
         },
 //        {
