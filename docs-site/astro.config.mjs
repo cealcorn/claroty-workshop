@@ -67,6 +67,9 @@ export default defineConfig({
             { label: 'Lab 5: Zones and Segmentation', slug: 'labs/lab-5' },
             { label: 'Lab 6: Custom Attributes', slug: 'labs/lab-6' },
             { label: 'Lab 7: PCAP Collection', slug: 'labs/lab-7' },
+            { label: 'Lab 8: Vulnerability Triage and Prioritization', slug: 'labs/lab-8' },
+            { label: 'Lab 9: Events vs. Alerts vs. Stories', slug: 'labs/lab-9' },
+            { label: 'Lab 10: Creating Reports', slug: 'labs/lab-10' },
           ],
         },
 //        {

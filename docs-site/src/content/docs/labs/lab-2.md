@@ -6,9 +6,9 @@ description: ""
 - Locate specific assets using filter options
 - Know how to customize the asset view with column options
 - Export inventory data
-
+---
 ## STEPS
-### Part One - Asset Information
+### Part One: Asset Information
 1. Navigate to the **Assets** page.
 2. Note the total asset count and the current column headers.
 3. Filter the assets, one by one, by:
@@ -27,8 +27,8 @@ description: ""
    - Network analytics
    - Communication
 7. Explore these pages and note what sort of information can be found.
-
-### Part Two - Asset Inventory
+---
+### Part Two: Asset Inventory
 1. Return to the **Assets** page.
 2. Click on the kebab menu (**⋮**) at the top left of the listed assets and choose the **Select Columns** option.
 3. Within the window, all available column options will be shown. Add all unselected items, then click **Apply**.
@@ -38,7 +38,7 @@ description: ""
    - Select the appropriate timezone.
    - Select all **Include** options before downloading.
 5. Once the download has completed, open the file to view the output.
-
+---
 ## REFLECTION
 - In a non-lab environment with thousands of devices, how might filters and selected/deselected columns be useful?
 - What other information, devices, and pages can you access from a specific asset's page?
