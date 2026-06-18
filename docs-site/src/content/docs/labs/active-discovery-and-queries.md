@@ -2,6 +2,7 @@
 title: "Active Discovery and Queries"
 description: ""
 ---
+# ** WIP **
 ## GOALS
 - Understand the difference between passive and active data collection
 - Locate Active Discovery and Active Query functionality within CTD

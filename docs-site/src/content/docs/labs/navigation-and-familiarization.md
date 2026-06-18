@@ -1,6 +1,6 @@
 ---
-title: "Lab 1: Navigation and Familiarzation"
-description: "Familiarizae yourself with the CTD environment."
+title: "Navigation and Familiarzation"
+description: ""
 ---
 ## GOALS
  - Understand CTD architecture at a high level

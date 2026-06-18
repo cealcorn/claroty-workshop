@@ -1,5 +1,5 @@
 ---
-title: "Lab 4: Network Visibility and Topology Analysis"
+title: "Network Visibility and Topology Analysis"
 description: ""
 ---
 ## GOALS

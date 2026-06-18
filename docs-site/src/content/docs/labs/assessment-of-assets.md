@@ -1,5 +1,5 @@
 ---
-title: "Lab 3: Asset Assessment"
+title: "Assessment of Assets"
 description: ""
 ---
 ## GOALS

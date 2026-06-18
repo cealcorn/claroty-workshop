@@ -1,5 +1,5 @@
 ---
-title: "Lab 5: Zones and Segmentation"
+title: "Zones and Segmentation"
 description: ""
 ---
 ## GOALS

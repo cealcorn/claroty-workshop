@@ -1,5 +1,5 @@
 ---
-title: "Lab 6: Custom Attributes"
+title: "Custom Attributes"
 description: ""
 ---
 ## GOALS

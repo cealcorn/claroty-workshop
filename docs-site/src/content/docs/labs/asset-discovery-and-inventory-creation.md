@@ -1,5 +1,5 @@
 ---
-title: "Lab 2: Asset Discovery and Inventory Creation"
+title: "Asset Discovery and Inventory Creation"
 description: ""
 ---
 ## GOALS
