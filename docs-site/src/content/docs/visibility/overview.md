@@ -9,7 +9,6 @@ description: "✅"
 - Understand how visibility data supports risk assessments
 ---
 ## TASKS
-### Overview
 1. Navigate to `Visibility` > `Overview`.
 2. Using information avaiable on the **Visibility Overview**, **Assets**, and **Zones** pages, determine:
    - The total number of assets
@@ -17,13 +16,6 @@ description: "✅"
    - The total number of zones
    - The most populous zones
    - Which zones and assets conduct the higher number of communications
-### Asset Retention Rules
-1. Navigate to `Visibility` > `Settings` > `Asset Retention Rules`.
-2. Note each rule, including the *Asset Inactive Time Period*.
-   - How long are asset data/ records kept on the network when they are inactive?
-3. Note any rule regarding **Ghost Assets**.
-   - What is a ghost asset?
-   - Why might it be important to retain data/ records on them?
 ---
 ## REFLECTION
 - What types of systems appear to exist within the environment?
