@@ -14,6 +14,9 @@ description: "✅"
 5. In the **Affected Assets** column, select one of the <U># assets - click to filter</u> options to follow it to the filtered **Assets** page, then select any asset from that list.
 6.  Navigate to the `Risks & Vulnerabilities` page for that asset, then scroll down to **Insights**. You should see *Unsupported OS* as one of the options.
 7. Add a comment noting that the risk for the unsupport OS has been accepted, then select **Mark as Completed**. 
+
+### Insight Settings
+- The **Insight Settings** page (`Risks & Vulnerabilities` > `Insight Settings`) can be used to activate, deactive, or create new insight configuration rules.
 ---
 ## REFLECTION
 - How can insights be used to understand an environment's current security posture and prioritize remediation efforts?
