@@ -63,7 +63,6 @@ export default defineConfig({
             { label: 'Navigation and Familiarzation', slug: 'labs/navigation-and-familiarization' },
             { label: 'Asset Discovery and Inventory Creation', slug: 'labs/asset-discovery-and-inventory-creation' },
             { label: 'PCAP Collection and Analysis', slug: 'labs/pcap-collection-and-analysis' },
-            { label: 'Events vs. Alerts vs. Stories', slug: 'labs/events-vs-alerts-vs-stories' },
             { label: 'Generating Reports', slug: 'labs/generating-reports' },
             { label: 'Active Discovery and Queries', slug: 'labs/active-discovery-and-queries' },
           ],
@@ -93,6 +92,16 @@ export default defineConfig({
             { label: 'Overview', slug: 'threat-detection/overview' },
             { label: 'Alerts', slug: 'threat-detection/alerts' },
             { label: 'Events', slug: 'threat-detection/events' },
+          ],
+        },
+                {
+          label: 'Investigation',
+          items: [
+          ],
+        },
+                {
+          label: 'Reports',
+          items: [
           ],
         },
 //        {
