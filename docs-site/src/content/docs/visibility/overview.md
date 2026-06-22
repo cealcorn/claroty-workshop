@@ -3,10 +3,8 @@ title: "Visibility: Overview"
 description: "✅"
 ---
 ## GOALS
-- Learn how to approach an unknown OT environment using CTD
 - Develop a high-level understanding of the network
 - Identify areas that require additional investigation
-- Understand how visibility data supports risk assessments
 ---
 ## TASKS
 1. Navigate to `Visibility` > `Overview`.

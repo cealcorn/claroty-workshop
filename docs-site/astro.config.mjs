@@ -85,7 +85,6 @@ export default defineConfig({
             { label: 'Insights', slug: 'risks-and-vulnerabilities/insights' },
             { label: 'Vulnerabilities', slug: 'risks-and-vulnerabilities/vulnerabilities' },
             { label: 'Attack Vector', slug: 'risks-and-vulnerabilities/attack-vector' },
-            { label: 'Insight Settings', slug: 'risks-and-vulnerabilities/insight-settings' },
           ],
         },
 //        {
