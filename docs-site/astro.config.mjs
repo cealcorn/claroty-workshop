@@ -63,11 +63,9 @@ export default defineConfig({
             { label: 'Navigation and Familiarzation', slug: 'labs/navigation-and-familiarization' },
             { label: 'Asset Discovery and Inventory Creation', slug: 'labs/asset-discovery-and-inventory-creation' },
             { label: 'PCAP Collection and Analysis', slug: 'labs/pcap-collection-and-analysis' },
-            { label: 'Vulnerability Analysis and Prioritization', slug: 'labs/vulnerability-analysis-and-prioritization' },
             { label: 'Events vs. Alerts vs. Stories', slug: 'labs/events-vs-alerts-vs-stories' },
             { label: 'Generating Reports', slug: 'labs/generating-reports' },
             { label: 'Active Discovery and Queries', slug: 'labs/active-discovery-and-queries' },
-            { label: 'Insight Investigation', slug: 'labs/insight-investigation' },
           ],
         },
         {
@@ -78,6 +76,16 @@ export default defineConfig({
             { label: 'Assets', slug: 'visibility/assets' },
             { label: 'Asset Retention', slug: 'visibility/asset-retention' },
             { label: 'Custom Attributes', slug: 'visibility/custom-attributes' },
+          ],
+        },
+                {
+          label: 'Risks & Vulnerabilities',
+          items: [
+            { label: 'Overview', slug: 'risks-and-vulnerabilities/overview' },
+            { label: 'Insights', slug: 'risks-and-vulnerabilities/insights' },
+            { label: 'Vulnerabilities', slug: 'risks-and-vulnerabilities/vulnerabilities' },
+            { label: 'Attack Vector', slug: 'risks-and-vulnerabilities/attack-vector' },
+            { label: 'Insight Settings', slug: 'risks-and-vulnerabilities/insight-settings' },
           ],
         },
 //        {

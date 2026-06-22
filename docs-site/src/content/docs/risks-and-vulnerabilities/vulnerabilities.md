@@ -1,6 +1,6 @@
 ---
 title: "Risks & Vulnerabilities: Vulnerabilities"
-description: ""
+description: "✅"
 ---
 ## GOALS
 - Prioritize vulnerabilities using provided information
