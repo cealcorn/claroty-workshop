@@ -36,8 +36,8 @@ export default defineConfig({
             { label: '1.1 Overview', slug: 'visibility/overview' },
             { label: '1.2 Assets', slug: 'visibility/assets' },
             { label: '1.3 Zones', slug: 'visibility/zones' },
-            { label: '1.4 Asset Retention', slug: 'visibility/asset-retention' },
-            { label: '1.5 Custom Attributes', slug: 'visibility/custom-attributes' },
+           // { label: '1.4 Asset Retention', slug: 'visibility/asset-retention' },
+           // { label: '1.5 Custom Attributes', slug: 'visibility/custom-attributes' },
           ],
         },
         {
