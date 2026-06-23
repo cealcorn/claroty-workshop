@@ -6,7 +6,7 @@ description: Overview of the OT and IT Lab
 Your login username and password will be provided during class.
 
 ### Classroom EMC Instance
-| EMC| EMC URL |
+| EMC | EMC URL |
 |:-|:-|
 | EMC | <a href="https://ctd.missionit.com:9100" target="_blank">https://ctd.missionit.com:9100</a> |
 
