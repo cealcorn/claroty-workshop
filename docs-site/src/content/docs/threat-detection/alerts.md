@@ -4,11 +4,9 @@ description: "✅"
 ---
 ## SCENARIO / CONTEXT
 
-In Section 3.1 we reviewed the Threat Detection Overview and learned how rules, baselines, signatures, and other detection mechanisms are used to identify potentially suspiscious activity.
+Alerts are generated when Claroty determines that an activity is significant enough to require attention. Alerts provide context and information that can help determine whether activity is expected, suspicious, or potentially malicious.
 
-Alerts are generated when Claroty determines that an activity is significant enough to require attention. Alerts provide additional context, prioritization, and investigative information that can help determine whether activity is expected, suspicious, or potentially malicious.
-
-We now want to gain an understanding of how Claroty presents suspicious activity and how individual alerts contribute to larger stories. We also want to understand what information is available within an alert, how alerts are prioritized, and how they can be used to begin an investigation into an asset, communication path, or broader network activity.
+We now want to gain an understanding of how Claroty presents suspicious activity and how stories are formed from groups of indvidual alerts. We also want to understand what information is available within an alert, how alerts are prioritized, and how they can be used to begin an investigation into an asset, communication path, or broader network activity.
 
 ---
 ## TASK 1: Alert Information
@@ -17,31 +15,34 @@ We now want to gain an understanding of how Claroty presents suspicious activity
 * Review the **Alerts** page.
     - Alerts can be filtered by type, status, category, etc., 
     - Each has its own status, and the ability to be assigned to a specific user.
-    - There are two types of alerts:
-        - **Security Event Alerts** indicate potentially malicious or suspicious activity. Examples include:
-            - Port Scanning
-            - Unauthorized Communications
-            - Exploit Attempts
-        - **Process Integrity Alerts** indicate changes to operational processes. Examples include:
-            - Configuration Changes
-            - Firmware Updates
-            - Logic Changes
-<br/></br>
-* Select an alert with the *Known Threat Alert* type to open its **Alert View** page.
-    - The top banner will display the type of alert (such as *Known Threat*, *Network Scan*, *Configuration Download*, etc.) followed by a short description of it. 
-    - The page includes:
-        - **Network Signature Info**, which provides basic information about the alert.
-        - The **Alert Score**, including *Significant Indicators*, and how the score itself was calculated.
-        - A **Root Cause Analysis** with communicationn paths and related alerts.
-        - **Mitigation Steps**
-        - and the other alerts or events associated with the **Alert**. 
-<br/></br>
-* Return to the **Alerts** page and filter by **Integrity Alerts**. Select an alert with the *Configuration Upload* type and go to its **Alert View** page. 
-    - How does this alert page differ from the other alert page you viewed?
+<br/><br/>
+
+* There are two types of alerts:
+
+| Alert | Description |
+|:-|:-|
+| **Security Event Alerts** | Indicate potentially malicious or suspicious activity. Examples include:<br/>- Port Scanning<br/>- Unauthorized Communications<br/>- Exploit Attempts |
+| **Process Integrity Alerts** | Indicate changes to operational processes. Examples include:<br/>- Configuration Changes<br/>- Firmware Updates<br/>- Logic Changes |
+
+* In the **Alerts** search bar, search for `Heap Spray` and select one of the two **ETERNALBLUE** alerts to open its **Alert View** page.
+    - The top banner will display the type of alert (such as *Known Threat*, *Network Scan*, *Configuration Download*, etc.) followed by a short description of it. The page also includes additional and useful information:
+
+| Module | Description |
+|:-|:-|
+| **Network Signature Info** | Provides basic information about the alert, including its signature ID and name. |
+| **Alert Score** | Includes *Significant Indicators* and how Claroty calculated the score. |
+| **Root Cause Analysis** | Shows a series of related alerts, and an asset communication map. |
+| **Mitigation Steps** | Suggests potential mitigation steps, dependant on the type and criticality of the alert. |
+| **Alert** | Provides information about the asset(s) that triggered the alert. |
+| **Alert Timeline** | A comment box that can be used to note/record information about the timeline of the alert. |
+
+* Return to the **Alerts** page and filter **Alert Category** by  *Integrity Alerts*. Select an alert with the *Configuration Upload* type and go to its **Alert View** page. 
+<br/><br/>
+* Determine any similarities and any differences from the modules presented on this alert page.
 
 ### TASK 1 REFLECTION
-* x
-* x
+* How do different alert pages differ from one another? Does a Network Scan alert have different information than a Known Threat alert?
+* How could the information provided in an alert's page be used to further investigate a potential threat?
 ---
 ## TASK 2: Stories
 * Return to the `Threat Detection` > `Alerts` page.
