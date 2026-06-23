@@ -102,6 +102,7 @@ export default defineConfig({
                 {
           label: 'Reports',
           items: [
+            { label: 'Reports', slug: 'reports/reports' },
           ],
         },
 //        {

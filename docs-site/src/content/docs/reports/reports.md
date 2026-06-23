@@ -3,7 +3,8 @@ title: "Reports"
 description: ""
 ---
 ## GOALS
-- 
+- Understand how to create custom reports
+- Determine the location of reports
 ---
 ## TASKS
 ### Reports Library
@@ -34,6 +35,13 @@ description: ""
     - This will add the widget(s) you created to the new custom report.
 6. Select **Create** in the top right corner, fill out the widget report details as necesasry, then select **Create** again.
 7. Navigate to `Reports` > `Reports Library` and locate your custom widget report.
+#### Scheduling Reports
+1. Navigate to `Reports` > `Reports Library`.
+2. In the right most column, choose a report, then select the **⏱︎** symbol underneath **Actions**.
+    - This will open up the edit menu, allowing you to edit the report name and share options in addition to scheduling.
+    - Reports are scheduled to be sent on a weekly basis, and can be sent once a week to every day at a specified time. 
+    - Recepients must be registered users within Claroty to be sent the report.
+3. **Update** your changes to return to the **Reports Library** page.
 ---
 ## REFLECTION
-- 
+- How could specific scheduled reports be best used to maintain awareness of the environment?
