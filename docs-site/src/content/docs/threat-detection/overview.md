@@ -2,24 +2,28 @@
 title: "Threat Detection: Overview"
 description: "✅"
 ---
-## GOALS
+## SCENARIO / CONTEXT
+
 - Gain a high-level understanding of current threat activity within the environment
 - Determine where to begin investigating suspicious activity
 - Understand the difference between alerts, events, and stories
 - Understand the purpose of the various rules
 ---
-## TASKS
+## TASK 1: Overview
 1. Navigate to `Threat Detection` > `Overview`.
 2. Using the information available on the page, determine:
    - The total number of *Open Alerts*
    - The total number of *Events*
    - The number of *Open Stories*
-### Events vs Alerts vs Stories
+---
+## TASK 2: Events vs Alerts vs Stories
 - Events represent activities that occurred on the network, and not every event is malicious.
 - Alerts are generated when events meet specific criteria or detection logic.
 - Stories are collections of related alerts (and events).
-### Rules
+---
+## Task 3: Rules
 - CTD uses several different rule types to determine when alerts should be generated. These rules can be reviewed under `Threat Detection` > `Rules` > `...`.
+|
     - **Zone Rules**
         - Define which zones are expected to communicate with one another.
         - Should be validated.
