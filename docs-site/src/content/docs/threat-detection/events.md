@@ -3,11 +3,12 @@ title: "Threat Detection: Events"
 description: "✅"
 ---
 ## SCENARIO / CONTEXT
-Blurb
+Now that we have covered alerts and stories, we can move to understanding what causes them: events.
 
-- Understand the purpose of events
-- Learn how events contribute to alerts and stories
-- Identify the information available within event records
+Events are records of activity that has occurred on the network. They may represent normal operational behavior, configuration changes, communications between assets, protocol operations, or other observed activity. Unlike alerts, events are not necessarily suspicious or malicious.
+
+Events provide the raw context behind detections. By reviewing events, we can better understand what occurred, when it occurred, which assets were involved, and why an alert or story may have been generated from that activity.
+
 ---
 ## TASK 1: title
 * Navigate to `Threat Detection` > `Events`.
