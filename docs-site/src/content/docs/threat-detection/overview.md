@@ -5,7 +5,6 @@ description: "✅"
 ## SCENARIO / CONTEXT
 By now, you should have come across alerts, events, and stories during Chapters 1 and 2, either through exploring asset pages or vulnerabilities. We now want to begin building an understanding such that:
 
-* You can distinguish between events, alerts, and stories, and understand the purpose of each;
 * Discover recent and noteworthy activity occurring within the environment;
 * Identify which assets, zones, or communications may warrant further investigation;
 * Understand how CTD uses rules, baselines, and signatures to generate detections;
