@@ -3,11 +3,15 @@ title: "Threat Detection: Alerts"
 description: "✅"
 ---
 ## SCENARIO / CONTEXT
-- Understand the purpose of alerts
-- Determine how alerts differ from events
-- Understand how suspicious or malicious activity is presented
+
+In Section 3.1 we reviewed the Threat Detection Overview and learned how rules, baselines, signatures, and other detection mechanisms are used to identify potentially suspiscious activity.
+
+Alerts are generated when Claroty determines that an activity is significant enough to require attention. Alerts provide additional context, prioritization, and investigative information that can help determine whether activity is expected, suspicious, or potentially malicious.
+
+We now want to gain an understanding of how Claroty presents suspicious activity and how individual alerts contribute to larger stories. We also want to understand what information is available within an alert, how alerts are prioritized, and how they can be used to begin an investigation into an asset, communication path, or broader network activity.
+
 ---
-## TASK 1: title
+## TASK 1: Alert Information
 * Navigate to `Threat Detection` > `Alerts`.
 <br/></br>
 * Review the **Alerts** page.
