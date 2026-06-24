@@ -70,19 +70,26 @@ Blurb
 ## TASK 3: Creating Custom Widget Reports
 * Navigate to `Visibility` > `Assets`.
 <br/><br/>
-* Filter **Protocol** by *BACNET* and select all resulting items.
-<br/><br/>
 * From the kebab menu, select *Create a Widget* to open the **Create a Widget** pop up menu.
-    - The widget reports allow for visible representation of data, such as choosing specific chart types. Filters can also be adjusted from within the widget page.
+    * The widget reports allow for visible representation of data, such as choosing specific chart types. Filters can also be adjusted from within the widget page.
+
+![Custom widget pop up menu](../../../assets/ClarotyCTD-Menu-Reports-WidgetPopUp.png)
+
+* Name the widget `BACNET`. Select *Horizontal Bar* for **Chart Type**, *OT* for **Class**, and *BACNET* for **Protocol**.
 <br/><br/>
-* Edit the widget as desired, create it, then navigate to `Reports` > `Reports Editor`. 
+* Select **Save** to create the custom widget.
+<br/><br/>
+* Navigate to `Reports` > `Reports Editor`. 
 <br/><br/>
 * Select **+ Add Widget**, select **Custom Widgets** in the grey sidebar, select the custom widget you previously created, and then select **Add Widgets**.
     - This will add the widget(s) you created to the new custom report.
 <br/><br/>
 * Select **Create** in the top right corner, fill out the widget report details as necesasry, then select **Create** again.
 <br/><br/>
-* Navigate to `Reports` > `Reports Library` and locate your custom widget report. You can use filter options ot 
+* Navigate to `Reports` > `Reports Library` and locate your custom widget report.
+
+### TASK 3 REFLECTION
+* Why might it be useful to have a custom widget for a specific vendor, protocol, etc.?
 
 ---
 
