@@ -109,9 +109,8 @@ Blurb
 * Navigate to `Reports` > `Scheduled Reports`.
 <br/><br/>
 * All reports configured with recurrence can be viewed and edited here. Reports can also be downloaded and sent independent of this recurrence schedule, without altering it, as needed.
----
 
-## TASKS REFLECTION
+### TASKS REFLECTION
 * How could specific scheduled reports be best used to maintain awareness of the environment?
 * When might reports need to be sent outside of the usual schedule?
 * What sort of scheduled reports would be most helpful for you to receive?
