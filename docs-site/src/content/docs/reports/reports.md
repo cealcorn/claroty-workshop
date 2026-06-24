@@ -52,7 +52,15 @@ Blurb
 <br/><br/>
 * Select **Create* to save the report.
 <br/><br/>
-* Navigate to `Reports` > `Reports Library` and locate the custom table report. You 
+* Navigate to `Reports` > `Reports Library` > `Table Reports` and locate the custom table report that you just created. Under **Actions**, *Download* the custom report as a <u>PDF</u>.
+    * It may take a minute or so for the download to appear and complete.
+<br/><br/>
+* Once the download completes, open and view the PDF from your Downloads folder.
+
+## TASK 2 REFLECTION
+* How could table reports to create robust, or specific, asset inventories?
+* How could table reports be used to share information with personnel who do not have direct access to CTD?
+* When would a custom table report be more useful than viewing the information directly in CTD?
 
 ---
 
