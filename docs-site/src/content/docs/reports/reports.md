@@ -75,7 +75,7 @@ Blurb
 
 ![Custom widget pop up menu](../../../assets/ClarotyCTD-Menu-Reports-WidgetPopUp.png)
 
-* Name the widget `BACNET`. Select *Horizontal Bar* for **Chart Type**, *OT* for **Class**, and *BACNET* for **Protocol**.
+* Name the widget `BACNET`. Select *Vertical Bar* for **Chart Type**, *OT* for **Class**, and *BACNET* for **Protocol**.
 <br/><br/>
 * Select **Save** to create the custom widget.
 <br/><br/>
