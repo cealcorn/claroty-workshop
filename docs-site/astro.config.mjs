@@ -52,20 +52,21 @@ export default defineConfig({
         {
           label: 'CHAPTER 3: Threat Detection',
           items: [
-            { label: 'Overview', slug: 'threat-detection/overview' },
-            { label: 'Alerts', slug: 'threat-detection/alerts' },
-            { label: 'Events', slug: 'threat-detection/events' },
+            { label: '3.1 Overview', slug: 'threat-detection/overview' },
+            { label: '3.2 Alerts', slug: 'threat-detection/alerts' },
+            { label: '3.3 Events', slug: 'threat-detection/events' },
           ],
         },
                 {
           label: 'CHAPTER 4: Investigation',
           items: [
+            { label: '4.1 Investigation', slug: 'investigation/day2' },
           ],
         },
                 {
           label: 'CHAPTER 5: Reports',
           items: [
-            { label: 'Reports', slug: 'reports/reports' },
+            { label: '5.1 Reports', slug: 'reports/day2' },
           ],
         },
 /*        {
