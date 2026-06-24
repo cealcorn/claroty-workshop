@@ -2,12 +2,11 @@
 title: "Investigation"
 description: ""
 ---
-## GOALS
-- 
----
-## TASKS
 
-### Process Values
+blurb
+
+---
+## TASK 1: Investigating Process Values
 
 - What process variables are changing?
 - Who is reading/ who is writing them?
@@ -19,7 +18,13 @@ description: ""
     - click on it and see the source of the change (usually an hmi)
         - this is the next path on the investigation (the change was made by an hmi, go pull the audit logs from the hmi to see whats up)
 
-### Network Sessions
+### TASK 1 REFLECTION
+
+* x
+
+---
+
+## TASK 2: Investigating Network Sessions
 - Network traffic and health
 - Are there errors?
 - What generates the most traffic?
@@ -27,10 +32,8 @@ description: ""
 - raw data of what firewalls rules should be **
     - as we approach 0 trust we want to limit east/west traffic
 
----
-
-## REFLECTION
-- 
+### TASK 2 REFLECTION
+- x
 
 * test
     * test
