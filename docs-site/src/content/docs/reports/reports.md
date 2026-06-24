@@ -32,6 +32,9 @@ Blurb
 <br/><br/>
 * Switch over to the **Compliance Reports** tab.
     - How are these reports similar to the other report types, and how do they differ?
+
+### TASK 1 REFLECTION
+* What types of information does Claroty communicate through the predefined Widget Reports, Table Reports, and Compliance Reports?
     
 ---
 
