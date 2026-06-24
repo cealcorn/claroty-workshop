@@ -36,24 +36,23 @@ Blurb
 ---
 
 ## TASK 2: Creating Custom Table Reports
-* Navigate to `Reports` > `Reports Library`.
-<br/><br/>
-* Filter **Report Source** by *Custom* on the **Table Reports** tab.
-    - If there are any custom reports, they will appear listed here.
-<br/><br/>
 * Navigate to `Visibility` > `Assets`.
 <br/><br/>
-* Filter the **Asset Criticality** by *High*.
+* Filter the **Vendor** by *Dell*.
 <br/><br/>
-* Select the kebab menu (**⋮**), click *Select Columns*, and all all column options.
+* Select the kebab menu (**⋮**), click *Select Columns*, and select all column options.
 <br/><br/>
 * Check **□** to select all the filtered assets, then select the kebab menu (**⋮**) and click *Create a New Table Report*.
-<br/><br/>
+
+![Create new table report](../../../assets/ClarotyCTD-Menu-Reports-Create.png)
+
 * The **Create Report** pop up menu will appear and provide a variety of options for the report, including report details (name, description), the scope of data to be include, who the report should be shared with (CTD users), and the option to enable recurrence.
 <br/><br/>
-* Fill out the report with the appropriate values and then select **Create* to save the report.
+* Fill out the report with the appropriate values, such as `CTD Assets Report - Dell` for name, select *PDF* for export format, and all available include options.
 <br/><br/>
-* Navigate back to the `Reports Library` and locate the custom table report.
+* Select **Create* to save the report.
+<br/><br/>
+* Navigate to `Reports` > `Reports Library` and locate the custom table report. You 
 
 ---
 
@@ -72,7 +71,7 @@ Blurb
 <br/><br/>
 * Select **Create** in the top right corner, fill out the widget report details as necesasry, then select **Create** again.
 <br/><br/>
-* Navigate to `Reports` > `Reports Library` and locate your custom widget report.
+* Navigate to `Reports` > `Reports Library` and locate your custom widget report. You can use filter options ot 
 
 ---
 
