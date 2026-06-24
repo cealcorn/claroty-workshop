@@ -96,14 +96,22 @@ Blurb
 ## TASK 4: Scheduling Reports
 * Navigate to `Reports` > `Reports Library`.
 <br/><br/>
-* In the right most column, choose a report, then select the **⏱︎** symbol underneath **Actions**.
-    - This will open up the edit menu, allowing you to edit the report name and share options in addition to scheduling.
-    - Reports are scheduled to be sent on a weekly basis, and can be sent once a week to every day at a specified time. 
-    - Recepients must be registered users within Claroty to be sent the report.
-<br/><br/>
-* **Update** your changes to return to the **Reports Library** page.
+* In the right most column, choose any report, then select the **⏱︎** symbol underneath **Actions**.
+    * This will open up the edit menu, allowing you to edit the report name and share options in addition to scheduling.
+    * Reports are scheduled to be sent on a weekly basis, and can be sent once a week to every day at a specified time. 
+    > Recepients must be registered users within Claroty to be sent the report, and an SNMP server must be set up for emails to be sent or received.
+* Select **Update** to save the change, then wait a moment for a pop up to appear indicating that changes have been made.
 
+![Changes made pop up](../../../assets/ClarotyCTD-Menu-Reports-ChangeMadePopUp.png)
+
+* Repeat this step for the custom reports that you made, and give each a different recurrence.
+<br/><br/>
+* Navigate to `Reports` > `Scheduled Reports`.
+<br/><br/>
+* All reports configured with recurrence can be viewed and edited here. Reports can also be downloaded and sent independent of this recurrence schedule, without altering it, as needed.
 ---
 
 ## TASKS REFLECTION
 * How could specific scheduled reports be best used to maintain awareness of the environment?
+* When might reports need to be sent outside of the usual schedule?
+* What sort of scheduled reports would be most helpful for you to receive?
