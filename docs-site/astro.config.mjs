@@ -60,7 +60,7 @@ export default defineConfig({
                 {
           label: 'CHAPTER 4: Investigation',
           items: [
-            { label: '4.1 Investigation', slug: 'investigation/day2' },
+            { label: '4.1 Investigation', slug: 'investigation/investigation' },
           ],
         },
                 {
