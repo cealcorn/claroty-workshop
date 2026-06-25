@@ -44,12 +44,33 @@ The investigation section of Claroty provides a series of pages with data inform
 
 ## TASK 2: Investigating Network Sessions
 * Navigate to `Investigations` > `Network Sessions`.
-- Network traffic and health
-- Are there errors?
-- What generates the most traffic?
-
-- raw data of what firewalls rules should be **
-    - as we approach 0 trust we want to limit east/west traffic
+<br/><br/>
+* A *network session* is a recorded communication between a source asset and a destination asset.
+    * Session data can help determine which assets communicate, which services they use, how much traffic they generate, and whether communication problems are occurring.
+    * This information can also inform firewall and network-segmentation decisions.
+<br/><br/>
+* In the results list, sort **Retransmissions** in descending order.
+    * Are there any network sessions with a significant amount of retransmissions, especially when compared to packets sent?
+    * What kind of situation(s) may cause retransmissions, and what may a high retransmission rate indicate?
+<br/><br/>
+* *Source* and *Destination Asset* tells us between which two assets the communication is retransmitting. 
+    * What is the source asset?
+    * What is the destination asset?
+<br/><br/>
+* Click on the **Destination Asset** to go to its page and determine:
+    * What type of asset is it
+    * What is its criticality and risk level?
+    * What protocol or service is associated with the destination port?
+<br/><br/>
+* Open the **Communication** tab and review the asset's communication activity.
+    * Does the destination communicate with multiple source assets?
+    * Do multiple sources experience high retransmission rates when communicating with it?
+    * Is the behavior isolated to one source, or does it appear across a shared communication path?
+    * Does the communication appear to be part of the asset's normal baseline?
+<br/><br/>
+* Return to **Network Sessions** and filter by the destination asset.
+    * Is the high transmission found in other communications?
 
 ### TASK 2 REFLECTION
-- x
+* How might a high retransmission rate affect a real environment?
+* What would be your next steps if you determine this is an isolated issue between two assets? What if it is an issue between multiple different asset communications?
