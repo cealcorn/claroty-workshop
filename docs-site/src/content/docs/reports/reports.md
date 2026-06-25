@@ -59,7 +59,7 @@ In this chapter, we will explore the different report types available within Cla
 <br/><br/>
 * Once the download completes, open and view the PDF from your Downloads folder.
 
-## TASK 2 REFLECTION
+### TASK 2 REFLECTION
 * How could table reports to create robust, or specific, asset inventories?
 * How could table reports be used to share information with personnel who do not have direct access to CTD?
 * When would a custom table report be more useful than viewing the information directly in CTD?
