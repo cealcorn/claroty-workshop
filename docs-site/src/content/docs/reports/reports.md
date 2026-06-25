@@ -2,10 +2,9 @@
 title: "Reports"
 description: "✅"
 ---
-Blurb
+It is often necessary to communicate findings to other teams or customers who may not have direct access to the platform. Claroty’s reporting capabilities allow information to be organized into reusable reports that can be viewed, exported, and scheduled for automatic delivery.
 
-- Understand how to create custom reports
-- Determine the location of reports
+In this chapter, we will explore the different report types available within Claroty, create custom table and widget reports, and learn how reports can be scheduled to provide recurring visibility into the environment.
 
 ---
 
@@ -60,7 +59,7 @@ Blurb
 <br/><br/>
 * Once the download completes, open and view the PDF from your Downloads folder.
 
-## TASK 2 REFLECTION
+### TASK 2 REFLECTION
 * How could table reports to create robust, or specific, asset inventories?
 * How could table reports be used to share information with personnel who do not have direct access to CTD?
 * When would a custom table report be more useful than viewing the information directly in CTD?
