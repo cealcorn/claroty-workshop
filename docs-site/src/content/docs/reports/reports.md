@@ -2,10 +2,9 @@
 title: "Reports"
 description: "✅"
 ---
-Blurb
+It is often necessary to communicate findings to other teams or customers who may not have direct access to the platform. Claroty’s reporting capabilities allow information to be organized into reusable reports that can be viewed, exported, and scheduled for automatic delivery.
 
-- Understand how to create custom reports
-- Determine the location of reports
+In this chapter, we will explore the different report types available within Claroty, create custom table and widget reports, and learn how reports can be scheduled to provide recurring visibility into the environment.
 
 ---
 
